@@ -30,7 +30,7 @@ I am currently an undergraduate student in Computer Engineering at UBA. I hold a
 - **Documentation**: Confluence, Google Docs, Google Slides
 - **Data Analysis**: SQL, Excel, BigQuery
 - **Visualization**: Metabase
-- **Design**: Figma
+- **Design**: Figma, Glide App
 
 ## Additional Skills
 - **Data Analysis**: I am developing my proficiency in analyzing data to provide actionable insights and support decision-making.
