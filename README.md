@@ -9,7 +9,7 @@ I am currently an undergraduate student in Computer Engineering at UBA. I hold a
 
 ## Experience with:
 
-### Product Analyst Role
+### Product Analyst
 
 ## Responsibilities
 
