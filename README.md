@@ -3,7 +3,7 @@
 
 ## 😊Welcome to my profile! 😊
 
-**Product Analyst | Product Owner | Product Manager | Data Product Manager**
+**Product Analyst | Product Owner | Product Manager**
 
 I am currently an undergraduate student in Computer Engineering at UBA. I hold a degree in IT Management from FIAP and a postgraduate degree in Data Analytics from FIAP.
 
