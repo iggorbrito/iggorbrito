@@ -1,11 +1,11 @@
 # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link">Igor Brito</a></div>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/igor-oliveira-brito1/)
 
-## 😊Welcome to my profile! 😊
+
 
 **Product Analyst | Product Owner | Product Manager**
 
-I am currently an undergraduate student in Computer Engineering at UBA. I hold a degree in IT Management from FIAP and a postgraduate degree in Data Analytics from FIAP.
+I am currently an undergraduate student in Computer Engineering at UBA. I hold a degree in IT Management from FIAP.
 
 ## Experience with:
 
